@@ -1,0 +1,4 @@
+1) Most of the basics of Python has been covered in this project:
+2) Collections like List, Tuples, etc.
+3) OOPs
+4) DB connection
